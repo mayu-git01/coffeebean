@@ -502,10 +502,80 @@ p,input,label,span.a{
   .wrapper{
     min-width: 0;
   }
+  .nav .nav-links{
+    float: none;
+    /* width: 100%; */
+
+  }
   .ads-box{
     float: none;
     width: 100%;
     margin-top: -50px;
   }
+  .ads-text{
+    padding-top: 50px;
+  }
+  .merch-item{
+    float: left;
+    width: 49.5%;
+  }
+  .item2,.item4,.item6,.item8{
+    margin-right: 0%;
+  }
+  .left-form,.right-form{
+    float: none;
+    width: 100%;
+    font-size: 18px;
+  }
+  .right-form{
+    margin-top: 20px;
+  }
+  .opening,.latest,.contact,.location{
+    float: none;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  .opening h3{
+    font-size: 35px;
+  }
+  .opening th,.opening td{
+    font-size: 25px;
+  }
+  .latest h3{
+    font-size: 35px;
+  }
+  .latest h4{
+    font-size: 25px;
+  }
+  .latest p{
+    font-size: 20px;
+  }
+  .contact h3{
+    font-size: 35px;
+  }
+  .contact p{
+    font-size: 25px;
+  }
+  .location h3{
+    font-size: 35px;
+  }
+  .location h4,.location p{
+    font-size: 25px;
+  }
   
+  .footer-content .logo,.footer-content .social,.footer-content .copyright{
+    float: none;
+    width: 100%;
+    text-align: center;
+  }
+  .
+  .social{
+    /* text-align: left; */
+    margin-top: 10px;
+  }
+  .copyright{
+    /* text-align: left; */
+    margin-top: 10px;
+  }
+
 }
