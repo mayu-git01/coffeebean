@@ -561,8 +561,7 @@ p,input,label,span.a{
   /* .nav .nav-links{
     float: none; */
     /* width: 100%; */
-
-  }
+  /* } */
   .ads-box{
     float: none;
     width: 100%;
@@ -624,7 +623,7 @@ p,input,label,span.a{
     width: 100%;
     text-align: center;
   }
-  .
+  
   .social {
     /* text-align: left; */
     margin-top: 10px;
@@ -641,7 +640,5 @@ p,input,label,span.a{
     position: fixed;
     right: 40px;
     top: 10px;
-
   }
-  
-
+}
